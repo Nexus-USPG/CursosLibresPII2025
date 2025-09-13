@@ -29,5 +29,6 @@ namespace CursosLibres.Controllers
 		{
 			c.Sesiones.Add(new Sesion(inicio, dur));
 		}
+
 	}
 }
